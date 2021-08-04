@@ -17,9 +17,9 @@ For work I am mostly developing apps with [Ionic](https://ionicframework.com/) h
 
 
 ### Stats
-[![github stats](https://github-readme-stats.vercel.app/api?username=SavageCore&show_icons=true&theme=buefy&count_private=true)](https://github.com/SavageCore)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SavageCore&show_icons=true&theme=buefy&count_private=true)](https://github.com/SavageCore)
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavageCore&show_icons=true&theme=buefy&layout=compact)](https://github.com/SavageCore)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SavageCore&show_icons=true&theme=buefy&layout=compact)](https://github.com/SavageCore)
 
 ## **Where to find me?**
 
